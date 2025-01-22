@@ -1,6 +1,9 @@
 # ghc-installer
 NPM wrapper for [ghcup-hs](https://github.com/haskell/ghcup-hs).
 
+## NOTE
+This repository has been upstreamed to GHC gitlab: https://gitlab.haskell.org/ghc/npm-packages/ghc-installer.
+
 ## Usage
 
 At postinstall, the minimal installation of `ghcup` is being made in your local `node_modules`. 
